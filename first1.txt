@@ -1,3 +1,7 @@
 HI this is rohith
+<<<<<<< HEAD
 ## This is second line
+=======
+# This is second line
+>>>>>>> develop
  
