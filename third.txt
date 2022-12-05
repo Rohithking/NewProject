@@ -1,1 +1,2 @@
 this is third file
+This is another change for stash in third.txt
